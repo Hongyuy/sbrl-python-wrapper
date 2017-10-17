@@ -1,0 +1,9 @@
+setup.py
+sbrl/C_sbrl.py
+sbrl/__init__.py
+sbrl.egg-info/PKG-INFO
+sbrl.egg-info/SOURCES.txt
+sbrl.egg-info/dependency_links.txt
+sbrl.egg-info/not-zip-safe
+sbrl.egg-info/requires.txt
+sbrl.egg-info/top_level.txt
